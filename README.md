@@ -1,6 +1,7 @@
 # Steganography Project
 
 ## Overview
+Helo I am Mohammed Razin CR
 This project implements steganography using Python, focusing on encoding and decoding hidden messages within image and audio files. Steganography is the practice of concealing information within other data, making it a powerful tool for secure communication.
 
 **Note**: This is my final-year BCA project.
